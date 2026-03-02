@@ -1,0 +1,10 @@
+Monday 02 March 2026 03:11:51 PM IST
+6C
+6C1
+6CSE
+6CSE1
+f1.txt
+prg1.sh
+prg2.sh
+prg3.sh
+prg4.sh
